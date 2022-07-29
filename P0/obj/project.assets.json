@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ian_s\\Desktop\\Revature\\IanS\\P0\\P0.csproj",
+      "projectUniqueName": "C:\\Users\\ian_s\\Desktop\\Revature\\static_analysis_practice\\p0\\P0.csproj",
       "projectName": "P0",
-      "projectPath": "C:\\Users\\ian_s\\Desktop\\Revature\\IanS\\P0\\P0.csproj",
+      "projectPath": "C:\\Users\\ian_s\\Desktop\\Revature\\static_analysis_practice\\p0\\P0.csproj",
       "packagesPath": "C:\\Users\\ian_s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ian_s\\Desktop\\Revature\\IanS\\P0\\obj\\",
+      "outputPath": "C:\\Users\\ian_s\\Desktop\\Revature\\static_analysis_practice\\p0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ian_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
